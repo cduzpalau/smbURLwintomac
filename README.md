@@ -9,4 +9,4 @@ Output:
 
     smb://whatever/I/do/it/doesnt/matter
 
-NOTE: remember double quotes and delete last "\"
+NOTE: remember double quotes and delete last "\\"
