@@ -1,0 +1,12 @@
+{
+  "name": "urlchange",
+  "version": "0.0.1",
+  "description": "Change url string format ",
+  "main": "smbURLwintomac.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carles Duz Palau",
+  "license": "MIT",
+  "dependencies": {}
+}
